@@ -6,7 +6,7 @@
 - Leader: Đậu Đình Quang Anh-20521059
 - Member: Hà Gia Huy -20521385
 - Member: Nguyễn Đình Đan Thy-20522006
-- Member: Trần Đức Duy
+- Member: Trần Đức Duy-20521248
 
 
 # UI / UX prototype: here [Here](https://www.figma.com/file/KTXcLbdXn8ayVesHV9Ihxm/Untitled?node-id=0%3A1&t=DK684u4Eksa1hATC-1)
