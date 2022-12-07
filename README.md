@@ -1,22 +1,13 @@
-# CNPM_G9
-# Cinema ticket sales management
+# CNPM_G3
+# Quản Lý Kho
 
 # Participants:
 
-- Leader: Trương Văn Sỹ 18521698 
-- Member: Phạm Trung Hiếu 19521511
-- Member: Đậu Đình Huy 19521602
-- Member: Nguyễn Thanh Lộc 19521763
+- Leader: Đậu Đình Quang Anh-20521059
+- Member: Hà Gia Huy -20521385
+- Member: Nguyễn Đình Đan Thy-20522006
+- Member: Trần Đức Duy
 
-# Task management table: [Here](https://trello.com/b/No7gkNti/cnpmg9)
 
-# UI / UX prototype: here [Here](https://www.figma.com/file/8rv488WKRoPSTikooDt1gY/UI%2FUX)
+# UI / UX prototype: here [Here](https://www.figma.com/file/8Eez7CWIFfkanBrOswCgKm/Fast-Food-Main?node-id=0%3A1&t=YM6LwrFT4E0m34oi-1)
 
-# Tech stacks:
-
-- Front-end: ReactJS
-- Back-end: NodeJS / Express
-- Database: MongoDB
-- ...
-
-# Demo online: [link to website - update later]
